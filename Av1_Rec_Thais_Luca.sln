@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Av1_Rec_Thais_Luca", "Av1_Rec_Thais_Luca.csproj", "{9DB89480-8BE0-8493-879E-7A66FE948409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Av1_Rec_Thais_Luca.Editor", "Av1_Rec_Thais_Luca.Editor.csproj", "{BB6DBB38-9BEA-3889-37D9-529C28528E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB89480-8BE0-8493-879E-7A66FE948409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB89480-8BE0-8493-879E-7A66FE948409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB89480-8BE0-8493-879E-7A66FE948409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB89480-8BE0-8493-879E-7A66FE948409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6DBB38-9BEA-3889-37D9-529C28528E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6DBB38-9BEA-3889-37D9-529C28528E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6DBB38-9BEA-3889-37D9-529C28528E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6DBB38-9BEA-3889-37D9-529C28528E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
